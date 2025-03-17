@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import {first151Pokemon, getFullPokedexNumber} from "../utils/Index";
+import {first151Pokemon, getFullPokedexNumber} from "../utils/index.js";
 
 const SideNav = (props) => {
   const { selectedPokemon, setSelectedPokemon, sideMenu, handleCloseMenu, } = props;

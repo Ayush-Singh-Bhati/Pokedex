@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import { getFullPokedexNumber, getPokedexNumber } from "../utils/Index";
+import { getFullPokedexNumber, getPokedexNumber } from "../utils/index.js";
 import TypeCard from "./TypeCard";
 import Modal from "./Modal";
 import { DotLottieReact } from "@lottiefiles/dotlottie-react";

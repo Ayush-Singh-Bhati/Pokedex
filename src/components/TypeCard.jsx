@@ -1,5 +1,5 @@
 import React from 'react'
-import { pokemonTypeColors } from '../utils/Index';
+import { pokemonTypeColors } from '../utils/index.js';
 
 const TypeCard = (props) => {
 
